@@ -6,13 +6,12 @@
     font-family: 'Poppins', sans-serif;
 }
 
-body{
-     /*background-image: url(/background.png)*/
+body {
     background-color: black;
 }
 
 .main {
-    background-image: url(" /background.png");
+    background-image:url(./img/bg.jpg);
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
